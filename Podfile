@@ -2,7 +2,7 @@ platform :ios, '9.0'
 
 use_modular_headers!
 
-target "Zype" do
+target "Owlegories" do
 pod 'SVProgressHUD' #progress indicator
 pod 'SDWebImage' #image downloading/caching
 pod 'Valet', '2.4.2' #keychain wrapper

@@ -12,9 +12,9 @@
 
 //Main app configuration for connecting to Zype property
 
-#define kOAuth_ClientId @"<Client ID>"
-#define kAppKey @"<Zype App Key>"
-#define kRootPlaylistId @"<Root Playlist ID>"
+#define kOAuth_ClientId @"8b2c6c1b6d9b19a1a250ca7484466069b966c63ef4bafe6629c4598169939b83"
+#define kAppKey @"kgm7xgq-e74pS145knsmuJhRSHK3mLwY5vyaNiR8qzfkcB-JRfG-gItgrWWYtM7r"
+#define kRootPlaylistId @"5bdca54879922f137a0003e3"
 
 #define kZypeAppId @"<Zype App ID>"
 #define kZypeSiteId @"<Zype Site ID>"

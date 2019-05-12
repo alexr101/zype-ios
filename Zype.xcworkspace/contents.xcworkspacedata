@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Zype.xcodeproj">
+      location = "group:/Users/alexpadillajr/Desktop/HackbotStudio/Clients/Owlegories/iOS/zype-ios/Owlegories.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
